@@ -7,3 +7,5 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
+
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4304283&101" alt="free hit counter" border="0"></a></noscript>
